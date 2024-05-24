@@ -1,0 +1,6 @@
+#+LATEX_HEADER: \usepackage{ctex}
+
+* Games
+** Say What you see
+这个谷歌小游戏既练习了英语又教你如何制作有效的图像prompt. \\
+[[https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw]]
