@@ -1,3 +1,4 @@
+#+LATEX_HEADER: \usepackage{ctex}
 * Excel
  https://numerous.ai/
 * 5 个通过写作在线搞钱的杀手级网站
@@ -18,3 +19,15 @@ https://jobs.peakfreelance.com
 5. Superpath Jobs
 网站专门为内容创作者和市场营销人员提供工作机会。该网站列出了各种与内容相关的职位，包括内容写作、编辑、内容策略和管理等。用户可以浏览不同的工作列表，了解每个职位的要求、薪资和其他详细信息。\\
 https://jobs.superpath.co
+
+* 白嫖
+https://arena.lmsys.org/
+
+* AI检测
+ChatGPT现在可以像人类一样写作了。不再受到人工智能检测器检测到的机器文字的限制。
+1. 前往Humbot网站
+   Humbot是一个可以使任何人工智能文字不被检测到的人工智能转化工具。
+2. 将你的人工智能文字粘贴到输入框中。点击“检测人工智能内容”来检查文字。你将获得来自所有主要人工智能检测器的检测结果。
+3. 点击“转化为人类文字”。Humbot将立即将文字转化为人类风格的。
+** URL
+ https://humbot.ai
