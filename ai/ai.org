@@ -31,3 +31,10 @@ ChatGPT现在可以像人类一样写作了。不再受到人工智能检测器�
 3. 点击“转化为人类文字”。Humbot将立即将文字转化为人类风格的。
 ** URL
  https://humbot.ai
+
+* Chattts-for
+1. Install python3 and pip
+2. python3 -n venv venv
+3. source ./venv/activate
+4. pip install chattts-fork
+5. Use chattts-for to transform text to sounds

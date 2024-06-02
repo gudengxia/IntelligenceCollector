@@ -1,5 +1,12 @@
 #+LATEX_HEADER: \usepackage{ctex}
-
+* Everyone Can Use English
+** URL
+https://github.com/xiaolai/everyone-can-use-english
+* Books
+如何找寻适合自己水平的英文读物？我觉得这个网站可以帮到你⬇️
+网站名：Readu，存有超过400万册美国学生阅读的图书，能够根据阅读级别（A-Z）和年级进行精确分级。每个级别的书目的排序进行了智能优化，而且都是最近的比较新的图书。
+** URL
+https://readu.io
 * Games
 ** Say What you see
 这个谷歌小游戏既练习了英语又教你如何制作有效的图像prompt. \\
