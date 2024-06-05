@@ -1,0 +1,15 @@
+#+LATEX_HEADER: \usepackage{CTEX}
+* Cobalt
+收藏！新晋下载王诞生，cobalt 是一个没有广告、跟踪器的免费在线下载工具。你只需粘贴链接即可获取文件，无需任何复杂操作，媒体下载本应如此。
+
+实测支持 YouTube、Instagram、bilibili、Twitter 和 tiktok 视频下载。 
+** Github
+GitHub https://github.com/imputnet/cobalt
+** URL
+在线使用 https://cobalt.tools
+
+* Map
+一个古地图收集数据库，历史爱好者的福利。
+这个网站是一个广泛的历史地图收藏站，包括16世纪到21世纪的珍稀地图。收藏品超过130,000张地图和相关图像，涉及北美、南美、欧洲、亚洲、非洲、澳大利亚、南极洲以及太平洋、等地区的地图。历史爱好者福音。
+** URL
+https://davidrumsey.com
