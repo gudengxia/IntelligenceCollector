@@ -13,3 +13,15 @@ GitHub https://github.com/imputnet/cobalt
 这个网站是一个广泛的历史地图收藏站，包括16世纪到21世纪的珍稀地图。收藏品超过130,000张地图和相关图像，涉及北美、南美、欧洲、亚洲、非洲、澳大利亚、南极洲以及太平洋、等地区的地图。历史爱好者福音。
 ** URL
 https://davidrumsey.com
+
+* mi-gpt
+家里正好有个小爱音箱，要不试试这个？
+mi-gpt 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+主要是支持 Docker ，有点意思。
+** github
+https://github.com/idootop/mi-gpt
+
+* Voicer
+Voicer 一个浏览器插件 ，将网页上用户选中的文字转成语音，免费使用。已接入Azure tts 和 ChatTTS 。用了一下还不错，ChatTTS 速度还是跟不上，未来可期。
+** URL
+https://chromewebstore.google.com/detail/voicer/bjmpceolmcffbcilhbcdemohblckpbko?authuser=0&hl=zh-CNlp
