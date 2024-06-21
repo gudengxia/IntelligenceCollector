@@ -76,3 +76,8 @@ https://github.com/chaozh/awesome-blockchain-cn
  https://www.youtube.com/watch?v=MBlAqYajVSY
 ** Trojan 节点添加优选订阅+定制专属选优订阅
 https://www.youtube.com/watch?v=jOhq3QpXG_I
+
+
+* 科学上网
+1. https://github.com/haoel/haoel.github.io
+2. https://haoel.github.io

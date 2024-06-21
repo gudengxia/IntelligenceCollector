@@ -38,3 +38,9 @@ ChatGPT现在可以像人类一样写作了。不再受到人工智能检测器�
 3. source ./venv/activate
 4. pip install chattts-fork
 5. Use chattts-for to transform text to sounds
+
+* You
+you.com
+
+* Duckduckgo AI
+https://duckduckgo.com/?q=DuckDuckGo&ia=chat
